@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace calcualdora
+namespace calculadora
 {
     public partial class Form1 : Form
     {
@@ -68,11 +68,6 @@ namespace calcualdora
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

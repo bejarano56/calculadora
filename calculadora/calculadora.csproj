@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{048B8AEC-D8CF-421E-AFFE-6F63034E3EE6}</ProjectGuid>
+    <ProjectGuid>{F61F6D6D-D9E5-4D09-8606-9115A7FD2E6E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>calcualdora</RootNamespace>
-    <AssemblyName>calcualdora</AssemblyName>
+    <RootNamespace>calculadora</RootNamespace>
+    <AssemblyName>calculadora</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
